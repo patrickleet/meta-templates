@@ -1,7 +1,6 @@
 {
   "projects": {
     "templates/servicebus-microservice": "git@github.com:patrickleet/meta-template-servicebus-microservice.git",
-    "templates/meta-plugin": "git@github.com:patrickleet/meta-template-meta-plugin.git",
-    "templates/nodejs": "git@github.com:patrickleet/meta-template-nodejs.git"
+    "templates/meta-plugin": "git@github.com:patrickleet/meta-template-meta-plugin.git"
   }
 }
